@@ -1,0 +1,2 @@
+ERROR: This is error message!
+FATAL ERROR: This is error message!
